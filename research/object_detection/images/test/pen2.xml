@@ -1,0 +1,26 @@
+<annotation>
+	<folder>misc</folder>
+	<filename>pen2.jpg</filename>
+	<path>C:\Users\rharshit\Desktop\NEW DATA\data\data\misc\pen2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>none</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>811</xmin>
+			<ymin>146</ymin>
+			<xmax>831</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>
